@@ -1,5 +1,6 @@
 # DataScience
 Projects from [Yandex.Practicum Data Scientist course](practicum.yandex.ru/data-scientist-plus/). 
 
-| Project name                         | Description        | Used Libraries | 
-|:-------------------------------------|:-----------------------------------------------------------------------------------|:------------|| [Big Cities Music](./1-big-city-music) |  | *pandas*, *matplotlib* |
+| Course module                         | Project name        | Used Libraries | 
+|:--------------------------------------|:--------------------|:---------------|
+|[01. Data preprocessing.](https://github.com/maximdubrovskiy/DataScience/tree/main/01.%20Data%20prepocessing.)|Borrower reliability research | *pandas*, *matplotlib* |
