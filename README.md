@@ -1,6 +1,9 @@
-# DataScience
-Projects from [Yandex.Practicum Data Scientist course](practicum.yandex.ru/data-scientist-plus/). 
+# Учебные проекты
 
-| Course module | Project name | Descriptions | Used libraries | 
-|:--------------|:-------------|--------------|----------------|
-|01. Data preprocessing.|[Borrower reliability research](https://github.com/maximdubrovskiy/DataScience/tree/main/1-borrower-reliability-research)|This project aims to identify the relationships between demographic factors and loan repayment behavior. Also, to create ideal and undesirable client profiles. Some hypotheses will also be put forward regarding the reasons for the missing values that appear in the dataset.|*pandas*, *matplotlib* |
+| Название | Цель | Навыки и инструменты | Навыки |
+| :---------------------- | :---------------------- | :---------------------- | :---------------------- |
+| Линейная модель МО для фермера. | Разработать модель машинного обучения, которая поможет фермеру управлять рисками и принимать объективное решение о покупке коров, которые дадут не менее 6000 кг. вкусного молока в год.| `Sklearn` `Pandas` `NumPy` `Seaborn` `Matplotlib` `Scipy` `Phik`|  `ML` `Регрессия` `Классификация` |
+| Статистический анализ данных сервиса аренды самокатов GoFast. | Проанализировать данные, найти возможные ошибки, проверить несколько гипотез, и выяснить возможные точки роста бизнеса| `Pandas` `NumPy` `Matplotlib` `Scipy` `Math` | `Data Analysis` `A/B testing` |
+| # Исследование данных о российском кинопрокате. | Изучить рынок российского кинопроката и выявить текущие тренды. Уделить внимание фильмам, которые получили государственную поддержку.| `Pandas` `NumPy` `Matplotlib`| `Data Analysis` |
+| Исследование объявлений о продаже квартир. | Исследовательский анализ данных. Построить систему выявления и очистки данных от аномалий, определить рыночную стоимость жилья, найти факторы, влияющие на неё.| `Pandas` `NumPy` `Matplotlib` | `Data Analysis` |
+
